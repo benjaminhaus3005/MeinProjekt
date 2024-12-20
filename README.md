@@ -9,7 +9,7 @@ Dieses Repository dokumentiert die Schritte zur Einrichtung eines GitHub-Reposit
 1. Auf github.com registrieren und anmelden
 2. Repository mit dem Namen `MeinProjekt` anlegen
 
-   ![GitHub Repository erstellen](./screenshots1/%20Projekt%20auf%20GitHub%20anlegen.png)
+   ![GitHub Repository erstellen](./screenshots/1.%20Projekt%20auf%20GitHub%20anlegen.png)
 
 
 ## SSH-Schlüssel mit Github Account verknüpfen
