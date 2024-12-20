@@ -9,18 +9,18 @@ Dieses Repository dokumentiert die Schritte zur Einrichtung eines GitHub-Reposit
 1. Auf github.com registrieren und anmelden
 2. Repository mit dem Namen `MeinProjekt` anlegen
 
-   ![GitHub Repository erstellen](.screenshots1/%20Projekt%20auf%20GitHub%20anlegen.png)
+   ![GitHub Repository erstellen](./screenshots1/%20Projekt%20auf%20GitHub%20anlegen.png)
 
 
 ## SSH-Schlüssel mit Github Account verknüpfen
 
 1. Schlüssel über Konsole auslesen
 
-   ![SSH-Schlüssel Erstellung - Konsole](./screenshots2.%20SSH%20Schlüssel%20-%20Konsolenausgabe.png)
+   ![SSH-Schlüssel Erstellung - Konsole](./screenshots/2.%20SSH%20Schlüssel%20-%20Konsolenausgabe.png)
 
 2. Öffentlichen SSH-Schlüssel zu GitHub hinzufügen
 
-   ![SSH-Schlüssel auf GitHub hinzufügen](./screenshots3.%20SSH%20Schlüssel%20-%20Github%20hinzufügen.png)
+   ![SSH-Schlüssel auf GitHub hinzufügen](./screenshots/3.%20SSH%20Schlüssel%20-%20Github%20hinzufügen.png)
 
 3. Verknüpfung des SSH-Schlüssels prüfen/bestätigen
 
